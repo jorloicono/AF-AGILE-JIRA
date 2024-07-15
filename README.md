@@ -1,7 +1,7 @@
 # AF-AGILE-JIRA
 
 - Introducción Metodologías Ágiles: Scrum y Kanban
-- Principios y beneficios de las Matodologías Ágiles
+- Principios y beneficios de las Metodologías Ágiles
 - Introducción a JIRA
 - Proyectos
 - Tableros
